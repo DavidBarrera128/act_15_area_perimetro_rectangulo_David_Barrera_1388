@@ -1,0 +1,2 @@
+# act_15_area_perimetro_rectangulo_David_Barrera_1388
+ACT 15 Ejemplo del profe
